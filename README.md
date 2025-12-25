@@ -1,3 +1,3 @@
-<img src="banner.png" alt="banner" width="600" />
+<img src="banner.png" alt="banner" width="550" />
 
 
